@@ -1,0 +1,4 @@
+/home/ziya24/chat_app/build/CMakeFiles/server.dir
+/home/ziya24/chat_app/build/CMakeFiles/client.dir
+/home/ziya24/chat_app/build/CMakeFiles/edit_cache.dir
+/home/ziya24/chat_app/build/CMakeFiles/rebuild_cache.dir
